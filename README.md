@@ -9,6 +9,7 @@ Descripción:
 Cyclistic ofrece servicios de bicicletas compartidas con opciones de pases de un solo viaje, pases diarios y membresías anuales. Actualmente, hay dos tipos de usuarios:
 1.	Socios anuales: Usuarios frecuentes con suscripción.
 2.	Ciclistas ocasionales: Usuarios esporádicos que pagan por pase individual o diario.
+
 El equipo de análisis de datos debe recopilar, procesar y analizar la información de uso de ambos tipos de usuarios para identificar patrones clave y diferencias en comportamiento. A partir de estos hallazgos, se diseñarán estrategias de marketing enfocadas en:
 •	Entender las diferencias de uso entre los socios anuales y los ciclistas ocasionales.
 •	Identificar los factores que motivarían a los ciclistas ocasionales a adquirir una membresía anual.
