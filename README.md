@@ -14,11 +14,8 @@ El equipo de análisis de datos debe recopilar, procesar y analizar la informaci
 •	Identificar los factores que motivarían a los ciclistas ocasionales a adquirir una membresía anual.
 •	Utilizar medios digitales para incentivar la conversión de usuarios ocasionales en miembros anuales.
 El análisis debe estar respaldado por datos y proporcionar recomendaciones accionables para la estrategia de marketing de Cyclistic.
-![image](https://github.com/user-attachments/assets/aa50c1ae-a0e6-4a68-b7c4-70cb0cd54239)
-
-
 # Preparar
-
+Se descargan 12 ultimos meses de viajes, archivos en formato CSV, correspoden al año 2024, los datos han sido proporcionados por Motivate Interacional INC. Los datos son confiables, originales, integrales, actuales y citados. 
 # Procesar
 
 # Analizar
