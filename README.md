@@ -23,9 +23,13 @@ El análisis debe estar respaldado por datos y proporcionar recomendaciones acci
 Se descargan 12 ultimos meses de viajes, archivos en formato CSV, correspoden al año 2024, los datos han sido proporcionados por Motivate Interacional INC. Los datos son confiables, originales, integrales, actuales y citados. 
 
 # Procesar
-Los archivos CSV, se han descargado y procesado por mes a través de la herramienta Excel. Adicionalmente se usara R para integrar la data en un solo archivo. Se codifican los nombres de los archivos identificando el mes a que corresponde. La información esta en trece columnas, las cuales contienen id de viaje, tipo de bicicleta, fecha y hora de inicio del viaje, fecha y hora fin del viaje, nombre de la estación de inicio, id de estación de inicio, nombre de la estación fin, id estación fin, tipo de miembro, star_lat, star_ing, end_lat y end_ing. Los datos originales por mes son:
+Los archivos CSV, se han descargado y procesado por mes a través de la herramienta Excel. Adicionalmente se usara R para integrar la data en un solo archivo. Se seleccionan estas herramientas por su funcionalidad y versatilidad. Se codifican los nombres de los archivos identificando el mes a que corresponde. La información esta en trece columnas, las cuales contienen id de viaje, tipo de bicicleta, fecha y hora de inicio del viaje, fecha y hora fin del viaje, nombre de la estación de inicio, id de estación de inicio, nombre de la estación fin, id estación fin, tipo de miembro, star_lat, star_ing, end_lat y end_ing. Los datos originales por mes son:
 
 Enero 144.873 registros, Febrero 223.165 registros, Marzo 301.688 registros, Abril 415.025 registros, Mayo 609.494 registros, Junio 710.722 registros, Julio 748.963 registros, Agosto 755.640 registros, Septiembre 821.276 registros, Octubre 616.281 registros, Noviembre 335.075 registros, Diciembre 178.372 registros. TOTAL 5.860.574 registros.
+
+Para efectos del análisis se consideran 4 columnas que serán la base: rideable_type, started_at, ended_at, member_casual. Se incluyen 4 columnnas: ride_length que calcula la extensión de cada viaje que es la diferencia entre las columnas ended_at - started_at, day_of_week que calcula el día de la semana en que empezo el viaje, month que indica el mes de la información y una ultima columna que se agrupa en 6 ragos de tiempo.
+
+De la base se eliminan todos aquellos registros en el que tiempo de duración es igual a cero, se eliminan aquellos registros que tengan un tiempo de duración inferior a 1 minuto, se corrigen aquellos valor en los cuales el tiempo de finalización (enden_at) es mayor al del inicio (started_at). Como resultado de laa depuración en total quedan 5.742.455 registros
 
 
 
