@@ -16,7 +16,10 @@ El equipo de análisis de datos debe recopilar, procesar y analizar la informaci
 El análisis debe estar respaldado por datos y proporcionar recomendaciones accionables para la estrategia de marketing de Cyclistic.
 # Preparar
 Se descargan 12 ultimos meses de viajes, archivos en formato CSV, correspoden al año 2024, los datos han sido proporcionados por Motivate Interacional INC. Los datos son confiables, originales, integrales, actuales y citados. 
+
 # Procesar
+Los archivos CSV, se han descargado y procesado por mes a través de la herramienta Excel. Adicionalmente se usara R para integrar la data en un solo archivo. Se codifican los nombres de los archivos identificando el mes a que corresponde. 
+
 
 # Analizar
 
