@@ -11,9 +11,13 @@ Cyclistic ofrece servicios de bicicletas compartidas con opciones de pases de un
 2.	Ciclistas ocasionales: Usuarios esporádicos que pagan por pase individual o diario.
 
 El equipo de análisis de datos debe recopilar, procesar y analizar la información de uso de ambos tipos de usuarios para identificar patrones clave y diferencias en comportamiento. A partir de estos hallazgos, se diseñarán estrategias de marketing enfocadas en:
+
 •	Entender las diferencias de uso entre los socios anuales y los ciclistas ocasionales.
+
 •	Identificar los factores que motivarían a los ciclistas ocasionales a adquirir una membresía anual.
+
 •	Utilizar medios digitales para incentivar la conversión de usuarios ocasionales en miembros anuales.
+
 El análisis debe estar respaldado por datos y proporcionar recomendaciones accionables para la estrategia de marketing de Cyclistic.
 # Preparar
 Se descargan 12 ultimos meses de viajes, archivos en formato CSV, correspoden al año 2024, los datos han sido proporcionados por Motivate Interacional INC. Los datos son confiables, originales, integrales, actuales y citados. 
