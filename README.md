@@ -31,10 +31,13 @@ Para efectos del análisis se consideran 4 columnas que serán la base: rideable
 
 De la base se eliminan todos aquellos registros en el que tiempo de duración es igual a cero, se eliminan aquellos registros que tengan un tiempo de duración inferior a 1 minuto, se corrigen aquellos valor en los cuales el tiempo de finalización (enden_at) es mayor al del inicio (started_at). Como resultado de laa depuración en total quedan 5.742.455 registros
 
-
-
-
 # Analizar
+Se analizaron 5.742.455 registros, que corresponden a viajes realizados en las diferentes tipos de bicicletas por los dos grupos de usuarios (casual y member), para un periodo de 12 meses contados desde enero a diciembre de 2024, el 64% de los recorridos realizados fueron hechos por los usuarios member, el 36% corresponden a recorridos realizados por usuarios casual.
+
+Los recorridos realizado por tipo de bicicleta (rideable_type) se distribuyen asi: 50,1% electric_bike, el 47,5% classic_bike y el 2,4% electric_scooter. En la distribución de los promedio de los recorridos por día el sábado tiene la mayor participación. El mes que tuvo mas recorridos fue el mes de septiembre y el mes que tuvo menos recorridos fue el mes de enero, es decir que en las estaciones de invierno y otoño baja la demanda y en las estaciones de primavera y verano los recorridos aumentan.
+
+La longitud de los recorridos en terminos de tiempo indica que el 86% de los recorridos estan en el intervalo de 1 a 30 minutos. La longitud promedio de tiempo de recorrido por usurios es casual: 
+
 
 # Compartir
 
