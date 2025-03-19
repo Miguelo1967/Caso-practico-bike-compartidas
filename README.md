@@ -55,6 +55,11 @@ El promedio en terminos de longitud de viaje - mes por tipo de bike es:
 
 <img width="361" alt="image" src="https://github.com/user-attachments/assets/4bca23f9-8379-4ced-9f5d-a44fd21ba25c" />
 
+El promedio de viajes día por tipo de usuario es :
+
+<img width="492" alt="image" src="https://github.com/user-attachments/assets/86dfa582-548d-43fd-b7ff-74fcff3b7340" />
+
+
 
 
 
