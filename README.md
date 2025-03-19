@@ -44,7 +44,9 @@ La longitud de los recorridos en terminos de tiempo indica que el 86% de los rec
 
 Los tiempos de longitud de recorrido mes día por tipo de usuario, graficamente son:
 
-<img width="652" alt="image" src="https://github.com/user-attachments/assets/4d629a48-5d81-48a2-ac26-f0c88eb5e900" /> <img width="713" alt="image" src="https://github.com/user-attachments/assets/5a51e16c-d555-470d-81cf-45782bf73b91" />
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/80028d04-6796-4639-8070-d681bfe38cb2" /> <img width="600" alt="image" src="https://github.com/user-attachments/assets/61b697c1-148d-40bd-b433-3ffd1d6abfdb" />
+
+
 
 
 
