@@ -46,6 +46,14 @@ Los tiempos de longitud de recorrido mes día por tipo de usuario, graficamente 
 
 <img width="616" alt="image" src="https://github.com/user-attachments/assets/80028d04-6796-4639-8070-d681bfe38cb2" /> <img width="600" alt="image" src="https://github.com/user-attachments/assets/61b697c1-148d-40bd-b433-3ffd1d6abfdb" />
 
+El promedio en terminos de longitud de tiempo viaje - mes por tipo de usuario se muestra a continuacion:
+
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/d0493eb7-da66-4128-94df-f3f685c2e3ba" />
+
+
+El promedio en terminos de longitud de viaje - mes por tipo de bike es:
+
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/4bca23f9-8379-4ced-9f5d-a44fd21ba25c" />
 
 
 
