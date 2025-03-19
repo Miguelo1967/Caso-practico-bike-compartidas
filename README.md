@@ -36,7 +36,11 @@ Se analizaron 5.742.455 registros, que corresponden a viajes realizados en las d
 
 Los recorridos realizado por tipo de bicicleta (rideable_type) se distribuyen asi: 50,1% electric_bike, el 47,5% classic_bike y el 2,4% electric_scooter. En la distribución de los promedio de los recorridos por día el sábado tiene la mayor participación. El mes que tuvo mas recorridos fue el mes de septiembre y el mes que tuvo menos recorridos fue el mes de enero, es decir que en las estaciones de invierno y otoño baja la demanda y en las estaciones de primavera y verano los recorridos aumentan.
 
-La longitud de los recorridos en terminos de tiempo indica que el 86% de los recorridos estan en el intervalo de 1 a 30 minutos. La longitud promedio de tiempo de recorrido por usurios es casual: 
+La longitud de los recorridos en terminos de tiempo indica que el 86% de los recorridos estan en el intervalo de 1 a 30 minutos. La longitud promedio de tiempo de recorrido por usurios es: casual: 00:23:09, member: 00:13:25. La longitud de recorrido por tipo de bicicleta es: classic_bike 00:20:52, electric_bike 00:11:58 y electric_scooter 00:13:18.
+
+
+
+
 
 
 # Compartir
