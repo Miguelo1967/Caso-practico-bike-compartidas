@@ -42,6 +42,12 @@ Los recorridos realizado por tipo de bicicleta (rideable_type) se distribuyen as
 
 La longitud de los recorridos en terminos de tiempo indica que el 86% de los recorridos estan en el intervalo de 1 a 30 minutos. La longitud promedio de tiempo de recorrido por usurios es: casual: 00:23:09, member: 00:13:25. La longitud de recorrido por tipo de bicicleta es: classic_bike 00:20:52, electric_bike 00:11:58 y electric_scooter 00:13:18.
 
+Los tiempos de longitud de recorrido mes día por tipo de usuario, graficamente son:
+
+<img width="652" alt="image" src="https://github.com/user-attachments/assets/4d629a48-5d81-48a2-ac26-f0c88eb5e900" /> <img width="713" alt="image" src="https://github.com/user-attachments/assets/5a51e16c-d555-470d-81cf-45782bf73b91" />
+
+
+
 
 
 
