@@ -79,19 +79,31 @@ El 50% del total de recorridos se realizan en electric_bike frente al 47% que se
 
 El 86% de longitud de los recorridos en terminos de tiempo esta entre 1 y 30 minutos.
 
+Los recorridos realizados por tipo de bicicleta (rideable_type) se distribuyen así: 50,1% electric_bike, el 47,5% classic_bike y el 2,4% electric_scooter. En la distribución de los promedio de los recorridos por día el sábado tiene la mayor participación. El mes que tuvo más recorridos fue el mes de septiembre y el mes que tuvo menos recorridos fue el mes de enero, es decir que en las estaciones de invierno y otoño baja la demanda y en las estaciones de primavera y verano los recorridos aumentan.
 
+En consideración al comportamiento en cuanto al uso de las bike que tiene cada grupo de ciclistas Member - Casual y con el fin de capitalizar el mismo para aumentar las membrecias, se recomendaria:
 
+Descuentos y Beneficios Exclusivos​
 
+Ofrecer descuentos y beneficios exclusivos puede atraer a más ciclistas hacia las membresías anuales, aumentando la participación.​
 
+Atención al Cliente Excepcional​
 
+Mejorar la experiencia del usuario mediante una atención al cliente excepcional es crucial para fomentar la lealtad entre los miembros.​
 
+Uso de medios digitales para influenciar conversiones​
 
+Importancia de los Medios Digitales​
 
+Los medios digitales son esenciales para llegar al público objetivo y maximizar el impacto de las campañas de marketing.​
 
+Campañas Creativas​
 
+Implementar campañas creativas puede captar la atención del consumidor y guiar sus decisiones de compra de manera efectiva.​
 
+Influencia en Decisiones de Compra​
 
-
+Las campañas bien diseñadas pueden influir significativamente en las decisiones de compra y aumentar la base de usuarios.​
 
 # Compartir
 
