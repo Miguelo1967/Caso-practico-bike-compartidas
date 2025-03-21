@@ -59,11 +59,21 @@ El promedio de viajes día por tipo de usuario es :
 
 <img width="492" alt="image" src="https://github.com/user-attachments/assets/86dfa582-548d-43fd-b7ff-74fcff3b7340" />
 
+La longitud de viaje en términos de tiempo por tipo de bike y usuario se indican a continuación:
+
+Grupo Member - Casual CASUAL
+![image](https://github.com/user-attachments/assets/4012c287-7bb1-466d-8c11-a48b97d0b7a7)
+
+Grupo Member - Casual MEMER
+![image](https://github.com/user-attachments/assets/44f98b28-57b0-41d4-8394-397efe8d4db5)
+
 La diferencias que se pueden observar en cuanto al uso de bicicleta por cada tipo de usuario las podemos resumir así:
 
 La mayor cantidad de recorridos la realizan los usuarios identificados como miembros (member) 64%.
 
 La mayor longitud en términos de tiempo en los recorridos la realizan los usuarios identificados como casual con un promedio de 00:23:09 frenta a 00:13:25 de los member
+
+Las preferencia de uso en términos de logitud de tiempo por tipo de bike para ambos grupos de usuarios es la misma, optan por las classic bike, manteniendo la misma tendencia en terminos de tiempo promedio es decir que los recorridos de los usurios CASUAL son más extensos, 00:35:23 frente a 00:14:18 de los usuarios MEMBER
 
 El 50% del total de recorridos se realizan en electric_bike frente al 47% que se realizan en classic_bike.
 
